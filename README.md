@@ -6,7 +6,6 @@ Bubble Game is a simple web-based game built using Vite and styled-components. I
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [How to Play](#how-to-play)
 - [Features](#features)
 - [Contributing](#contributing)
