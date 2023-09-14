@@ -17,11 +17,11 @@ Bubble Game is a simple web-based game built using Vite and styled-components. I
 
 ## How to Play
 
-- When you start the game, you will see a grid of bubbles, each containing a number.
+- When you start the game, you will see a grid of bubbles containing a number.
 - Your objective is to click on the bubble that displays the same number as the "hit" number at the top.
 - If you click the correct bubble, your score will increase.
 - The "hit" number changes after each successful click, so stay sharp!
-- The game ends when you click the wrong bubble. You can then choose to play again.
+- The game ends when the timer reaches zero. You can then choose to play again.
 
 ## Features
 
